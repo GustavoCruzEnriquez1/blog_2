@@ -1,0 +1,55 @@
+.container-fluid{
+    text-align: center;
+    color: white;
+  }
+  
+  .content-center{
+     text-align: center;
+    color: white;
+  }
+
+  h1 {
+    margin: 0;
+    text-align: center;
+}
+h2 {
+  font-size: 34px;
+  text-align: center;
+    margin: 0;
+}
+
+p {
+  font-size: 26px;
+  text-align: center;
+  padding: 20px;
+}
+.quien{
+    background-color:blueviolet;
+  height: 50vh;
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 82px;
+  }
+  .vi{
+    background-color: black;
+  height: 50vh;
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 82px;
+  }
+  .ob{
+    background-color: blue;
+  height: 50vh;
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 82px;
+  }
